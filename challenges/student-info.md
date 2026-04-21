@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: N.DIVYA TEJA
+- Roll Number: 160125733248
+- Section: cse-4
+- GitHub Username: divvyaaa04
